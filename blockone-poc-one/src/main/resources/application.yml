@@ -1,0 +1,13 @@
+micronaut:
+  application:
+    name: blockone-poc-one
+bintray:
+  organization: micronaut
+  repository: profiles
+  apiversion: v1
+team:
+  name: 'Steelers'
+  color: 'Black'
+  player-names: ['Mason Rudolph', 'James Connor']
+
+

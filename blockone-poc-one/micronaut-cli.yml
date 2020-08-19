@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: blockone.poc.one
+---
+testFramework: spock
+sourceLanguage: groovy
